@@ -262,7 +262,7 @@
 \newcommand{\upcite}[1]{\textsuperscript{\cite{#1}}}
 
 \RequirePackage{gbt7714}
-\citestyle{numerical}
+\citestyle{BUAA}
 
 
 %%%%%%%%%% 交叉引用 %%%%%%%%%%
